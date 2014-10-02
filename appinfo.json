@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Dark Signal Studios",
+    "longName": "Hello World",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Hello World",
+    "uuid": "45cdbbd0-1147-4f5b-bf45-50d285782849",
+    "versionCode": 1,
+    "versionLabel": "0.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
